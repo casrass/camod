@@ -1,0 +1,7 @@
+id=camod
+name=CA Module
+version=v1
+versionCode=1
+author=casrass
+description=Adds a CA certificate to the system store
+template=3
